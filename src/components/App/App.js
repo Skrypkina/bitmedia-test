@@ -11,7 +11,7 @@ const App = () => {
       <Route path="/" exact component={HomePage} />
       <Route path="/stats/:id" component={UserStats} />
       <Route path="/stats" component={StatsPage} />
-      <Route component={NotFound} />
+      {/* <Route component={NotFound} /> */}
     </Switch>
   );
 };
