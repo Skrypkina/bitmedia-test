@@ -1,0 +1,203 @@
+.pricingSectionContainer {
+  width: 300px;
+  padding: 10px;
+  font-family: Montserrat;
+  margin: 0 auto;
+}
+.title {
+  padding: 0;
+  margin: 0;
+  display: block;
+  margin: 0 auto;
+  width: 280px;
+  text-align: center;
+  font-size: 16px;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+}
+.titleSpan {
+  font-weight: bold;
+}
+.descr {
+  padding: 0;
+  margin: 0;
+  color: #7e7e7e;
+  display: block;
+  font-size: 12px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+.listItem {
+  display: block;
+  width: 280px;
+  text-align: center;
+  margin: 0 auto;
+  border: 2px solid #f1f1f1;
+  box-sizing: border-box;
+  border-radius: 32px;
+  margin-bottom: 10px;
+  padding-bottom: 16px;
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16);
+}
+.listItemTitle {
+  color: #1a1a1a;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  padding-top: 16px;
+  margin-bottom: 10px;
+}
+.listItemImg {
+  margin-bottom: 16px;
+}
+.listItemPrice {
+  padding: 0;
+  margin: 0;
+  color: #1a1a1a;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.listItemSpan {
+  color: #3a80ba;
+}
+.listItemDescr {
+  padding: 0;
+  margin: 0;
+  display: block;
+  margin: 0 auto;
+  color: #7e7e7e;
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding-top: 16px;
+  width: 160px;
+  border-top: 1px solid #f1f1f1;
+}
+.listItemDescrParagraph {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 5px;
+}
+.listItemBtn {
+  width: 100px;
+  height: 30px;
+  line-height: 100%;
+  text-align: center;
+  background-color: #3a80ba;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 10px;
+}
+.contactParagraph {
+  padding: 0;
+  margin: 0;
+  display: block;
+  margin: 0 auto;
+  color: #7e7e7e;
+  font-size: 14px;
+  width: 280px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.contactSpan {
+  color: #3a80ba;
+}
+.circle {
+  display: none;
+  width: 0;
+}
+@media (min-width: 1200px) {
+  .pricingSectionContainer {
+    width: 1200px;
+    padding: 0;
+    position: relative;
+  }
+  .title {
+    width: 580px;
+    height: 78px;
+    font-size: 32px;
+    line-height: 39px;
+    margin-bottom: 24px;
+  }
+  .descr {
+    width: 664px;
+    height: 56px;
+    font-size: 20px;
+    line-height: 142%;
+    margin-bottom: 32px;
+  }
+  .list {
+    width: 1200px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 32px;
+  }
+  .listItem {
+    width: 380px;
+    height: 627px;
+    padding-top: 32px;
+    padding-bottom: 40px;
+    margin-bottom: unset;
+    z-index: 999;
+  }
+  .listItemTitle {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 19px;
+  }
+  .listItemPrice {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    margin-bottom: 15px;
+  }
+  .listItemDescr {
+    width: 222px;
+    height: 182px;
+    font-size: 16px;
+    line-height: 162%;
+    padding-top: 24px;
+    margin-bottom: 24px;
+  }
+  .listItemDescrParagraph {
+    margin-bottom: unset;
+  }
+  .listItemBtn {
+    width: 220px;
+    height: 56px;
+    font-size: 16px;
+    line-height: 142%;
+  }
+  .contactParagraph {
+    width: 664px;
+    height: 28px;
+    font-size: 20px;
+    line-height: 142%;
+    margin-bottom: 74px;
+  }
+  .contactSpan {
+    font-weight: bold;
+  }
+  .circle {
+    display: unset;
+    width: 1000px;
+    height: 750px;
+    background: linear-gradient(91.6deg, #255d8b 9.03%, #3a80ba 96.98%);
+    opacity: 0.15;
+    clip-path: circle(43.1% at 100% 49%);
+    position: absolute;
+    top: 12%;
+    left: 18%;
+  }
+}

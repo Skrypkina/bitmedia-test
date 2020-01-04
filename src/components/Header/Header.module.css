@@ -1,0 +1,125 @@
+.headerContainer {
+  width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+  font-family: Montserrat;
+  font-size: 14px;
+  color: #ffffff;
+  height: 200px;
+  background: linear-gradient(92.09deg, #255d8b 2.29%, #3a80ba 96.79%);
+  margin-bottom: 10px;
+}
+
+.paragraph {
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+  margin-bottom: 16px;
+}
+.span {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+.title {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  display: block;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.descr {
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+  font-weight: light;
+  margin-bottom: 20px;
+}
+.link {
+  text-decoration: none;
+  display: block;
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 8px;
+  color: #3a80ba;
+  font-size: 10px;
+}
+.link:hover {
+  color: palevioletred;
+}
+.iphoneImg {
+  display: none;
+  width: 0;
+  height: 0;
+}
+.svg {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+@media (min-width: 1200px) {
+  .headerContainer {
+    width: 1200px;
+    height: 540px;
+    padding: 0;
+    padding-top: 24px;
+    border: 1px solid #ffffff;
+    position: relative;
+    margin-bottom: 16px;
+  }
+  /* svg */
+  .svg {
+    display: block;
+    overflow: hidden;
+    height: 250px;
+    width: unset;
+  }
+  /* svg */
+  .paragraph {
+    font-size: 40px;
+    line-height: 49px;
+    font-weight: light;
+    margin-bottom: 48px;
+    margin-left: 100px;
+  }
+  .title {
+    font-size: 48px;
+    line-height: 59px;
+    width: 586px;
+    height: 118px;
+    margin-bottom: 24px;
+    margin-left: 100px;
+  }
+  .descr {
+    width: 580px;
+    height: 56px;
+    font-size: 20px;
+    line-height: 142%;
+    margin-bottom: 32px;
+    margin-left: 100px;
+  }
+  .link {
+    width: 154px;
+    height: 56px;
+    font-size: 16px;
+    line-height: 56px;
+    margin-left: 100px;
+  }
+  .iphoneContainer {
+    position: absolute;
+    display: block;
+    left: 64.71%;
+    right: 16.1%;
+    top: 14%;
+    bottom: 78.17%;
+  }
+  .iphoneImg {
+    display: block;
+    width: 262px;
+    height: 460px;
+  }
+}
