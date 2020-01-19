@@ -130,6 +130,7 @@ body {
   .table {
     margin: unset;
     margin-bottom: 24px;
+    position: relative;
   }
   .link {
     text-align: center;
@@ -145,5 +146,10 @@ body {
   }
   .tableCell:nth-child(even) {
     background-color: #fbfbfb;
+  }
+  .paginationList {
+    position: absolute;
+    top: 84%;
+    left: 50%;
   }
 }

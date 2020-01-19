@@ -26,7 +26,7 @@ export default class PaginationPage extends Component {
   state = {
     items: merged,
     currentPage: 1,
-    linksPerPage: 12,
+    linksPerPage: 14,
   };
 
   handleClick = event => {
