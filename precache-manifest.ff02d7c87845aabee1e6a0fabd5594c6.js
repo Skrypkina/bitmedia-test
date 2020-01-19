@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b9134e608a5ffdd76e5b8082af9a591",
+    "revision": "328e51ad2bf388acfc5d40c013149b01",
     "url": "/bitmedia-test/index.html"
   },
   {
-    "revision": "68e245fea1d01f5893c0",
-    "url": "/bitmedia-test/static/css/main.42740256.chunk.css"
+    "revision": "26e41960132219440fc9",
+    "url": "/bitmedia-test/static/css/main.b7bad521.chunk.css"
   },
   {
     "revision": "aeba98fbde3888db224d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bitmedia-test/static/js/2.c4379d46.chunk.js.LICENSE"
   },
   {
-    "revision": "68e245fea1d01f5893c0",
-    "url": "/bitmedia-test/static/js/main.2e8c7a88.chunk.js"
+    "revision": "26e41960132219440fc9",
+    "url": "/bitmedia-test/static/js/main.cfce1d58.chunk.js"
   },
   {
     "revision": "927847db6c1ef8b505cf",
