@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bitmedia-test/static/css/main.b7bad521.chunk.css",
+    "main.css": "/bitmedia-test/static/css/main.2c888cb3.chunk.css",
     "main.js": "/bitmedia-test/static/js/main.cfce1d58.chunk.js",
     "main.js.map": "/bitmedia-test/static/js/main.cfce1d58.chunk.js.map",
     "runtime-main.js": "/bitmedia-test/static/js/runtime-main.436838b3.js",
@@ -8,9 +8,9 @@
     "static/js/2.c4379d46.chunk.js": "/bitmedia-test/static/js/2.c4379d46.chunk.js",
     "static/js/2.c4379d46.chunk.js.map": "/bitmedia-test/static/js/2.c4379d46.chunk.js.map",
     "index.html": "/bitmedia-test/index.html",
-    "precache-manifest.ff02d7c87845aabee1e6a0fabd5594c6.js": "/bitmedia-test/precache-manifest.ff02d7c87845aabee1e6a0fabd5594c6.js",
+    "precache-manifest.93090a93a68cc087e0b5c468e251b6ae.js": "/bitmedia-test/precache-manifest.93090a93a68cc087e0b5c468e251b6ae.js",
     "service-worker.js": "/bitmedia-test/service-worker.js",
-    "static/css/main.b7bad521.chunk.css.map": "/bitmedia-test/static/css/main.b7bad521.chunk.css.map",
+    "static/css/main.2c888cb3.chunk.css.map": "/bitmedia-test/static/css/main.2c888cb3.chunk.css.map",
     "static/js/2.c4379d46.chunk.js.LICENSE": "/bitmedia-test/static/js/2.c4379d46.chunk.js.LICENSE",
     "static/media/lock.png": "/bitmedia-test/static/media/lock.7a079005.png",
     "static/media/macbook.png": "/bitmedia-test/static/media/macbook.478b3440.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.436838b3.js",
     "static/js/2.c4379d46.chunk.js",
-    "static/css/main.b7bad521.chunk.css",
+    "static/css/main.2c888cb3.chunk.css",
     "static/js/main.cfce1d58.chunk.js"
   ]
 }
