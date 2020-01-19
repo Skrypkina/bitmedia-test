@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ff0d08b259ce9707671861009db7981",
+    "revision": "7b9134e608a5ffdd76e5b8082af9a591",
     "url": "/bitmedia-test/index.html"
   },
   {
-    "revision": "4aac4b923d9ab6664098",
-    "url": "/bitmedia-test/static/css/main.465ae5e6.chunk.css"
+    "revision": "68e245fea1d01f5893c0",
+    "url": "/bitmedia-test/static/css/main.42740256.chunk.css"
   },
   {
-    "revision": "b3e9d2e4a0c4c04f55f5",
-    "url": "/bitmedia-test/static/js/2.b838a8f5.chunk.js"
+    "revision": "aeba98fbde3888db224d",
+    "url": "/bitmedia-test/static/js/2.c4379d46.chunk.js"
   },
   {
-    "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/bitmedia-test/static/js/2.b838a8f5.chunk.js.LICENSE"
+    "revision": "44bb13c376a360a26522c8368cf779a1",
+    "url": "/bitmedia-test/static/js/2.c4379d46.chunk.js.LICENSE"
   },
   {
-    "revision": "4aac4b923d9ab6664098",
-    "url": "/bitmedia-test/static/js/main.78bebb68.chunk.js"
+    "revision": "68e245fea1d01f5893c0",
+    "url": "/bitmedia-test/static/js/main.2e8c7a88.chunk.js"
   },
   {
     "revision": "927847db6c1ef8b505cf",
