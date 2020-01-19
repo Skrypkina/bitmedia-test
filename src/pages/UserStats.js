@@ -10,7 +10,7 @@ const getIdFromProps = props => props.match.params.id;
 // styles
 
 const bodyStyle = {
-  height: 'calc(100vh - 50px - 80px)',
+  height: 'calc(100vh - 50px - 70px)',
   position: 'relative',
   width: 800,
   hight: 700,
@@ -20,21 +20,6 @@ export default class Stats extends Component {
   state = {
     user: {},
     data: {},
-    // data: {
-    //   labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'],
-    //   datasets: [
-    //     {
-    //       label: 'clicks',
-    //       backgroundColor: 'rgba(123, 25, 24, 0.75)',
-    //       data: [4, 5, 1, 10, 32, 2, 12],
-    //     },
-    //     {
-    //       label: 'page-views',
-    //       backgroundColor: 'rgba(46, 96, 147, 0.75)',
-    //       data: [14, 15, 21, 0, 12, 4, 2],
-    //     },
-    //   ],
-    // },
   };
 
   componentDidMount() {
