@@ -1,0 +1,30 @@
+.paragrahp {
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  color: #cccccc;
+  padding-top: 10px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  font-family: Montserrat;
+}
+.span {
+  color: #3a80ba;
+}
+.container {
+  width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+  font-family: Montserrat;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+    padding-left: 130px;
+  }
+  .paragrahp {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}

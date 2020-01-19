@@ -1,5 +1,5 @@
 [
-  { "user_id": 1, "date": "2019-10-02", "page_views": 260, "clicks": 565 },
+  { "user_id": 1, "mon": "jan", "page_views": 260, "clicks": 565 },
   { "user_id": 2, "date": "2019-10-02", "page_views": 766, "clicks": 258 },
   { "user_id": 3, "date": "2019-10-02", "page_views": 528, "clicks": 776 },
   { "user_id": 4, "date": "2019-10-02", "page_views": 323, "clicks": 373 },

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import users from '../../users.json';
 import clicks from '../../clicks.json';
+
 import styles from './PaginationPage.module.css';
 
 // helpers
