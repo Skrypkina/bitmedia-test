@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bitmedia-test/static/css/main.2c888cb3.chunk.css",
-    "main.js": "/bitmedia-test/static/js/main.cfce1d58.chunk.js",
-    "main.js.map": "/bitmedia-test/static/js/main.cfce1d58.chunk.js.map",
+    "main.js": "/bitmedia-test/static/js/main.d4bca286.chunk.js",
+    "main.js.map": "/bitmedia-test/static/js/main.d4bca286.chunk.js.map",
     "runtime-main.js": "/bitmedia-test/static/js/runtime-main.436838b3.js",
     "runtime-main.js.map": "/bitmedia-test/static/js/runtime-main.436838b3.js.map",
     "static/js/2.c4379d46.chunk.js": "/bitmedia-test/static/js/2.c4379d46.chunk.js",
     "static/js/2.c4379d46.chunk.js.map": "/bitmedia-test/static/js/2.c4379d46.chunk.js.map",
     "index.html": "/bitmedia-test/index.html",
-    "precache-manifest.93090a93a68cc087e0b5c468e251b6ae.js": "/bitmedia-test/precache-manifest.93090a93a68cc087e0b5c468e251b6ae.js",
+    "precache-manifest.0fb2c171fc7d8537360034749b9922b7.js": "/bitmedia-test/precache-manifest.0fb2c171fc7d8537360034749b9922b7.js",
     "service-worker.js": "/bitmedia-test/service-worker.js",
     "static/css/main.2c888cb3.chunk.css.map": "/bitmedia-test/static/css/main.2c888cb3.chunk.css.map",
     "static/js/2.c4379d46.chunk.js.LICENSE": "/bitmedia-test/static/js/2.c4379d46.chunk.js.LICENSE",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.436838b3.js",
     "static/js/2.c4379d46.chunk.js",
     "static/css/main.2c888cb3.chunk.css",
-    "static/js/main.cfce1d58.chunk.js"
+    "static/js/main.d4bca286.chunk.js"
   ]
 }
