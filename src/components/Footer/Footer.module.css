@@ -75,6 +75,7 @@
   .input {
     font-size: 16px;
     padding: 18px;
+    height: 18px;
   }
   .submitBtn {
     width: 176px;
