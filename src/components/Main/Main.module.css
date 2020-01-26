@@ -101,6 +101,7 @@
   border-radius: 8px;
   color: #3a80ba;
   font-size: 10px;
+  outline: none;
 }
 .macbookContainer {
   display: none;
